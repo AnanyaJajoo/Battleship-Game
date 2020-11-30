@@ -1,8 +1,8 @@
 # Battleship-Game
 
 
-*This Battleship Game can be played between 2 players. 
-*The players can select how big their board should be and the number of ships each player can have.
+* This Battleship Game can be played between 2 players. 
+* The players can select how big their board should be and the number of ships each player can have.
 *Start by placing you ships in the respective coordinates.
 *Then once each player has placed their ships the game is ready to begin!
 *Player 1 will go first and they will guess where they think player 2's ships are. 
